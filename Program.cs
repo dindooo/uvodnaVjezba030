@@ -47,11 +47,11 @@ namespace uvodnaVjezba03
 
                 if (x == sum)
                 {
-                    Console.WriteLine("Dimentije pravokutnog trokuta su ispravne");
+                    Console.WriteLine("Veličine pravokutnog trokuta su ispravne");
                 }
                 else
                 {
-                    Console.WriteLine("Dimentije pravokutnog trokuta su nisu ispravne");
+                    Console.WriteLine("Veličine pravokutnog trokuta nisu ispravne");
                 }
             }
             else if (y > x && y > z)
@@ -60,11 +60,11 @@ namespace uvodnaVjezba03
 
                 if (y == sum)
                 {
-                    Console.WriteLine("Dimentije pravokutnog trokuta su ispravne");
+                    Console.WriteLine("Veličine pravokutnog trokuta su ispravne");
                 }
                 else
                 {
-                    Console.WriteLine("Dimentije pravokutnog trokuta su nisu ispravne");
+                    Console.WriteLine("Veličine pravokutnog trokuta nisu ispravne");
                 }
             }
             else
@@ -73,11 +73,11 @@ namespace uvodnaVjezba03
 
                 if (z == sum)
                 {
-                    Console.WriteLine("Dimentije pravokutnog trokuta su ispravne");
+                    Console.WriteLine("Veličine pravokutnog trokuta su ispravne");
                 }
                 else
                 {
-                    Console.WriteLine("Dimentije pravokutnog trokuta su nisu ispravne");
+                    Console.WriteLine("Veličine pravokutnog trokuta nisu ispravne");
                 }
 
             }
